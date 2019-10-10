@@ -3,7 +3,7 @@ Thinxz Blog
 
 ### [View Live Blog](http://blog.thinxz.cn) 
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://github.com/thinxz/blog/blob/test/blog-desktop.jpg)
 
 
 ### [Jekyll](http://jekyllcn.com/docs/quickstart/)  
