@@ -1,0 +1,18 @@
+{
+    "name": "thinxz-blog",
+    "title": "Thinxz Blog",
+    "author": "Thinxz <thinxz@126.com>",
+    "version": "0.1.0",
+    "homepage": "http://blog.thinxz.cn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thinxz/blog"
+    },
+    "bugs": "https://github.com/thinxz/blog/issues",
+    "devDependencies": {},
+    "scripts": {
+        "dev": "jekyll serve -w --host 127.0.0.1 --port 4000",
+        "build": "jekyll build",
+        "clean": "jekyll clean"
+    }
+}
