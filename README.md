@@ -23,6 +23,10 @@ build & run
 02 :   jekyll serve -w --host 127.0.0.1 --port 4000
 ---
 
+add framework of hux
+---
+01 :   gem install jekyll-paginate
+---
 ```
 
 Boilerplate
